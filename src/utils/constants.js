@@ -6,6 +6,6 @@ export const API_OPTIONS = {
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODg2MGNhYjAyMGZhOWU4YjE3OGE5NzUxNzZiNWI5OCIsIm5iZiI6MTcyNjkzNzkyMC4yMjk0NzgsInN1YiI6IjY2ZWVmOGEwN2ZmMmJmNTdjZDI2MWNlMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.yQRXF_ttqNT6fqHRpU0l_Y1tXdIPVLAO0Rv6dHHJOI0'
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODg2MGNhYjAyMGZhOWU4YjE3OGE5NzUxNzZiNWI5OCIsIm5iZiI6MTcyNjk5MDE2My41NTM1NDEsInN1YiI6IjY2ZWVmOGEwN2ZmMmJmNTdjZDI2MWNlMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.EOTfEdpYxDmBZAq8vnlvAYbavvOvMWwC_iYWEg7IgoU'
     }
   };
