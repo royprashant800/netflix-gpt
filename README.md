@@ -39,7 +39,17 @@
 - GPT search page
 - GPT search bar
 - (Feautue) Multi-languange feature oin our app
-- Integrate GPT API(get) 
+- Get open AI API key
+- GPT search API call
+- Fetched GPT movie suggestions from TMDB
+- created gptSlice added data
+- reused Movie list to make movie suggestion container
+- Memoization
+- Added .env file
+- Adding .env file to git ignore
+- Made out site responsive
+
+
 
 
 # Features
