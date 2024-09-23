@@ -36,6 +36,10 @@
 - Found out image CDN
 - Made the Browse page amazing with Tailwind CSS
 - usePopularMovies custom hook
+- GPT search page
+- GPT search bar
+- (Feautue) Multi-languange feature oin our app
+- Integrate GPT API(get) 
 
 
 # Features
